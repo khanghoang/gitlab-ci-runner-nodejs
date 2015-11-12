@@ -1,7 +1,7 @@
 # gitlab-ci-runner-nodejs ¯\_(ツ)_/¯
 
-FROM ubuntu:12.04.5
-MAINTAINER  Alex Gervais "alex.gervais@mac.com"
+FROM ubuntu:14.04
+MAINTAINER  Khang Hoang "hoangtrieukhang@gmail.com"
 
 # Based on https://github.com/gitlabhq/gitlab-ci-runner/blob/master/Dockerfile
 # by Sytse Sijbrandij <sytse@gitlab.com>
