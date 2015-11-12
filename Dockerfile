@@ -1,4 +1,4 @@
-# gitlab-ci-runner-nodejs ¯\_(ツ)_/¯
+# gitlab-ci-runner-nodejs ¯\_(ツ)_/¯.
 
 FROM ubuntu:14.04
 MAINTAINER  Khang Hoang "hoangtrieukhang@gmail.com"
